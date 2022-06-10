@@ -1,0 +1,137 @@
+/* aqui esta la caja contenedora para la imagen de front */
+.contenedorimg1{
+                display: flex;
+                }
+/* aqui esta la caja contenedora para los atributos de la caja anterior*/
+.imagensuperior {
+                left: 8px;
+                position: absolute;
+                right: 923px;
+                bottom: 1257.27px;
+                top: 10.03px;
+                }
+/* aqui esta la caja contenedora para la imagen principal del pie*/
+.imagenmain     {
+                width: 650px; 
+                bottom: 843px;
+                position: absolute;
+                height: 375px;
+                left: 8px;
+                top: 84px;
+                right: 366px;
+                }
+/* aqui estan los atributos para el titulo principal*/                
+h1              {
+                position: absolute; 
+                top: 493px;
+                margin: 0;
+                left: 8px;
+                padding: 0%;
+                }
+/* aqui esta la caja contenedora para el parrafo */                
+.parrafo        {  
+                position: absolute;
+                height: 51px;
+                width: 100%;
+                top: 552px;
+                left: 8px;}
+body main div p{    
+                font-family:'Times New Roman', Times, serif;
+                font-style: normal;
+                font-weight: 400px;
+                font-size: 16px;
+                line-height: 18px;
+                color: #000000; 
+}   
+/* aqui esta la caja contenedora para el titulod de los ingredientes */                
+.ingredientes   {
+                position: absolute;
+                left: 8px;   
+                height: 28px;
+                width: 100%;
+                top: 625px; 
+                }
+/* aqui esta la caja contenedora para el titulo de la masa */
+.tituloingredientesmasa{
+                position: absolute;
+                height: 21px;
+                width: 100%;
+                left: 8px;
+                top: 673px;
+                }
+/* aqui esta la caja contenedora para el titulo de la crema */                
+.tituloparalacrema{
+                position: absolute;
+                height: 21px;
+                width: 120px;
+                left: 8px;
+                top: 805px;
+                margin: 10px;
+                padding: 10px;
+                
+                }
+/* aqui esta la caja contenedora de los ingredientes para la masa */                
+.cajanav        {   
+                position: absolute;
+                height: 72px;
+                width: 196px;
+                left: 32px;
+                top: 714px;
+                margin: 10px;
+                padding: 10px;
+                }
+/* aqui esta la caja contenedora de los ingredientes de la crema */                
+.cajanav2       {   
+                position: absolute;
+                height: 72px;
+                width: auto;
+                left: 32px;
+                top: 846px;
+                margin: 10px;
+                padding: 10px;
+                }     
+/* aqui esta la caja contenedora del titulo para el merengue */                           
+.titulomerengue{
+                position: absolute;
+                height: 21px;
+                width: 100%;
+                left: 8px;
+                top: 937px;
+                margin: 10px;
+                padding: 10px;
+                }
+/* aqui esta la caja contenedora de los ingredientes del merengue */                
+.cajanav3       {     
+                position: absolute;    
+                height: 36px;
+                width: 111px;
+                left: 32px;
+                top: 978px;
+                padding: 10px;
+                margin: 10px;
+                }
+/* aqui esta la caja contenedora del titulo de las instrucciones */  
+.tituloinstrucciones{
+                position: absolute;
+                height: 28px;
+                width: 138px;
+                left: 8px;
+                top: 1033px;
+                }
+/* aqui esta la caja contenedora del la lista de instrucciones */                
+.cajanav4       {      
+                position: absolute;
+                left: 8px;
+                right: 8px;
+                top: 1081px;
+                bottom: 41px;
+                }
+/* aqui esta la caja contenedora del footer*/                  
+footer          {display:inline-block ;   
+                position: absolute;
+                top: 1300px;
+                width: 100%;
+                bottom: 22px; 
+                text-align: center;
+                }
+                body{background-color: rgb(255, 148, 148);}
